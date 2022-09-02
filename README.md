@@ -11,4 +11,4 @@ Sample website with plenty of files for demos
 ## Deployment
 
 ### Copyright
-    This is not copyrighted lol
+    This is copyrighted
